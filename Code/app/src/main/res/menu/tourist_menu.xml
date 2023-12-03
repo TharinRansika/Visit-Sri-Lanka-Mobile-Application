@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/experiences"
+        android:title="Experiences"
+        android:icon="@drawable/baseline_photo_camera_24"
+
+        />
+
+    <item
+        android:id="@+id/hotelsAndRestaurents"
+        android:title="Hotels and Restaurents"
+        android:icon="@drawable/hotels_and_restaurents"
+
+        />
+
+
+    <item
+        android:id="@+id/myAccount"
+        android:title="My Account"
+        android:icon="@drawable/baseline_account_circle_24"
+
+        />
+
+    <item
+        android:id="@+id/tourGuides"
+        android:title="Tour Guides"
+        android:icon="@drawable/tour_guide2"
+
+        />
+    <item
+        android:id="@+id/taxies"
+        android:title="Taxies"
+        android:icon="@drawable/baseline_drive_eta_24"
+
+        />
+
+
+</menu>

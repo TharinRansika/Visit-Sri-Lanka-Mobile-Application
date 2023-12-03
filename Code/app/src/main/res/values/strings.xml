@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Visit Sri Lanka</string>
+
+    <!--Create Account As Tourist Activity(cat)-->
+    <string name="catHeading">Create Account as Tourist</string>
+    <string name="catNameField">Name</string>
+    <string name="catContactNumberField">Contact Number</string>
+    <string name="catEmailField">Email</string>
+    <string name="catCountryYouFromField">Country You From</string>
+    <string name="catCreatePassword">Create a Password</string>
+    <string name="catConfirmPassword">Confirm Password</string>
+    <string name="catUploadProfilePictureButton">Pick Image as Profile Picture</string>
+    <string name="catCreateAccountButton">Create Account</string>
+
+    <!--Sign In Activity(si)-->
+    <string name="siHeading">Sign In</string>
+    <string name="siEmailField">Email</string>
+    <string name="siPassword">Password</string>
+    <string name="siSubmitButton">Submit</string>
+
+    <!--Share Your Experiences with Others Activity(syeo)-->
+    <string name="syeHeading">Share Your Experiences with Others</string>
+    <string name="syeNameField">Name of the Place</string>
+    <string name="syeLocationField">Location</string>
+    <string name="syeExperienceField">Describe Your Experience</string>
+    <string name="syeUploadSomeImagesButton">Upload some Pictures</string>
+    <string name="syeShareButton">Share</string>
+
+    <!--My Tourist Account Activity(mta)-->
+    <string name="mtaWelcomeHeading">Welcome James</string>
+    <string name="mtaTouristName">James Anderson</string>
+    <string name="mtaTouristEmail">jamesanderson@gmail.com</string>
+    <string name="mtaTouristContactNumber">0713456783</string>
+    <string name="mtaTouristCountry">England</string>
+    <string name="mtaShareYourExperiences">Share Your Experiences</string>
+    <string name="mtaEditProfileButton">Edit Profile</string>
+    <string name="mtaSignOutButton">Sign Out</string>
+
+    <!--Main Navigation Page Activity(mnp)-->
+    <string name="mnpWelcomeHeading">Welcome to Visit Sri Lanka Mobile Platform</string>
+    <string name="mnpCreateAccountAsTouristButton">Create Account as Tourist</string>
+    <string name="mnpHotelRegistrationButton">Hotel Registration</string>
+    <string name="mnpTourGuideRegistrationButton">Tour Guide Registration</string>
+    <string name="mnpTourDriverRegistrationButton">Tour Driver Registration</string>
+    <string name="mnpSignInButton">Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

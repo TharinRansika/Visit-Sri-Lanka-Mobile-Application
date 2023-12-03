@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="background_padding">16dp</dimen>
+    <dimen name="CardViewCornerRadius">10dp</dimen>
+    <dimen name="CardViewElevation">5dp</dimen>
+    <dimen name="CardViewMarginTop">30dp</dimen>
+
+    <!--create account as tourist activity(cat)-->
+    <dimen name="catHeadingSize">32sp</dimen>
+    <dimen name="catHeadingMarginTop">10dp</dimen>
+    <dimen name="catEditTextHeight">40dp</dimen>
+    <dimen name="catEditTextPaddingLeft">10dp</dimen>
+    <dimen name="catEditTextMarginTop">15dp</dimen>
+    <dimen name="catUploadProfilePictureButtonHeight">40dp</dimen>
+    <dimen name="catUploadProfilePictureButtonPaddingLeft">10dp</dimen>
+    <dimen name="catUploadProfilePictureButtonMarginTop">15dp</dimen>
+    <dimen name="catCreateAccountButtonElevation">5dp</dimen>
+    <dimen name="catCreateAccountButtonMarginTop">20dp</dimen>
+    <dimen name="catCreateAccountButtonPadding">20dp</dimen>
+
+    <!--sign in activity(si)-->
+    <dimen name="siHeadingSize">64sp</dimen>
+    <dimen name="siHeadingMarginTop">10dp</dimen>
+    <dimen name="siEditTextPaddingLeft">10dp</dimen>
+    <dimen name="siEditTextMarginTop">15dp</dimen>
+    <dimen name="siSubmitButtonElevation">5dp</dimen>
+    <dimen name="siSubmitButtonMarginTop">20dp</dimen>
+    <dimen name="siSubmitButtonPadding">15dp</dimen>
+    <dimen name="siSubmitButtonWidth">170dp</dimen>
+
+    <!--share your experiences with others activity(syeo)-->
+    <dimen name="syeoHeadingSize">64sp</dimen>
+    <dimen name="syeoHeadingMarginTop">10dp</dimen>
+    <dimen name="syeoEditTextPaddingLeft">10dp</dimen>
+    <dimen name="syeoEditTextMarginTop">15dp</dimen>
+    <dimen name="syeoEditTextHeight">40dp</dimen>
+    <dimen name="syeoUploadSomePictureButtonHeight">40dp</dimen>
+    <dimen name="syeoUploadSomePictureButtonPaddingLeft">10dp</dimen>
+    <dimen name="syeoUploadSomePictureButtonMarginTop">15dp</dimen>
+    <dimen name="syeoshareButtonElevation">5dp</dimen>
+    <dimen name="syeoshareButtonMarginTop">20dp</dimen>
+    <dimen name="syeoshareButtonPadding">20dp</dimen>
+    <dimen name="syeoshareButtonWidth">200dp</dimen>
+
+    <!--my tourist account activity(mta)-->
+    <dimen name="mtaHeadingSize">64sp</dimen>
+    <dimen name="mtaImageViewWidth">300dp</dimen>
+    <dimen name="mtaImageViewHeight">300dp</dimen>
+    <dimen name="mtaImageViewMarginTop">10dp</dimen>
+    <dimen name="mtaTextViewHeight">40dp</dimen>
+    <dimen name="mtaTextViewMarginTop">15dp</dimen>
+    <dimen name="mtaTextViewPaddingLeft">10dp</dimen>
+    <dimen name="mtaShareButtonMarginTop">15dp</dimen>
+    <dimen name="mtaShareButtonPadding">15dp</dimen>
+    <dimen name="mtaShareButtonWidth">200dp</dimen>
+    <dimen name="mtaEditButtonMarginTop">15dp</dimen>
+    <dimen name="mtaEditButtonPadding">15dp</dimen>
+    <dimen name="mtaEditButtonWidth">150dp</dimen>
+    <dimen name="mtaSignOutButtonMarginLeft">40dp</dimen>
+
+
+</resources>
